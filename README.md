@@ -1,2 +1,2 @@
-# love-story
+# LS.github.io
 It's who we are
